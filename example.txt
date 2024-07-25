@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Hello This is the test 
 =======
@@ -10,3 +11,7 @@ Hello, this is an examplefile. New change on branch01
 >>>>>>> testing
 Second line on main
 Second line on example
+=======
+This is an example on new example file on branch01
+>>>>>>> branch01
+second line on main
