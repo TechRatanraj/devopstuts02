@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Hello This is the test 
 =======
 This is the example.txt file to added
 >>>>>>> testing
+=======
+Hello, this is an examplefile. New change on branch01
+>>>>>>> testing
+Second line on main
