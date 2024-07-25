@@ -9,3 +9,4 @@ This is the example.txt file to added
 Hello, this is an examplefile. New change on branch01
 >>>>>>> testing
 Second line on main
+Second line on example
