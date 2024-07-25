@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 Hello This is the test 
+=======
+This is the example.txt file to added
+>>>>>>> testing
