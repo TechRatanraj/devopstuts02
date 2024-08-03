@@ -4,6 +4,7 @@ run-name: Testing our Github actions
 on: [push]
 env:
   owner_name: Ratan
+  ratan_repo_value: ${{vars:owner_name}}
 
 jobs:
   basic_workflow:
